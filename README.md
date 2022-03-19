@@ -101,9 +101,9 @@ There's also a [devloper's document](DEVDOC.md), where the maintainer and collab
 <a href="https://www.paypal.com/paypalme/omegalauncher"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=for-the-badge&logo=paypal" alt="Donate via PayPal"/></a>
 <a href="https://www.patreon.com/omegalauncher"><img src="https://img.shields.io/badge/Patreon-Donate-blue?style=for-the-badge&logo=patreon" alt="Donate via Patreon"/></a>
 
-## FAQ
+## :grey_question: FAQ
 
-## Credits
+## :page_facing_up: Credits
 
 #### Thanks to The LawnchairLauncher team for the great work on [Lawnchair](https://github.com/LawnchairLauncher/lawnchair).
 
