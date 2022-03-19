@@ -1,36 +1,43 @@
 # Neo Launcher <img title="" src="./fastlane/metadata/android/en-US/images/icon.png" align="left" width="64">
 
-**Free and Open Source Launcher**
+### Free and Open Source Launcher
+
+[![Github repo stars](https://img.shields.io/github/stars/otakuhqz/Omega?style=flat)](https://github.com/otakuhqz/Omega/stargazers)
+[![Github All Releases](https://img.shields.io/github/downloads/otakuhqz/Omega/total.svg)](https://github.com/otakuhqz/Omega/releases/)
+[![Github release](https://img.shields.io/github/v/release/otakuhqz/Omega?display_name=tag)](https://github.com/otakuhqz/Omega/releases/latest)
+[![Small translation badge](https://hosted.weblate.org/widgets/omegalauncher/-/svg-badge.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
 
 ![](neo_banner.png)
 
-## *Installation & Download*
+## :floppy_disk: Installation & Downloads
 
 Our builds are available on:
 
-- **Github:** Releases or Actions (usually).
+- **GitHub:** Releases or Actions (usually).
 
 - **F-Droid**: Either IzzyOnDroid or our own repo.
 
 - **Telegram**.
 
-### *Links*
+### :link: Links
 
-**Github Releases**: [here](https://github.com/otakuhqz/Omega/releases)
+**GitHub Releases**: [here](https://github.com/otakuhqz/Omega/releases)
 
-**F-Droid** Add the links below into your F-Droid client:
+**F-Droid**:
+
+Add the links below into your F-Droid client:
 
 - **[IzzyOnDroid repo link](https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A)**
 
 - **[Our own repo link](https://raw.githubusercontent.com/nonaybay/newomega/master/fdroid/repo)**
 
-## *Community*
+## :thought_balloon: Community
 
 You can join [our Telegram group](https://t.me/neo_launcher) to make suggestions, ask questions, receive news and chat.
 
-## *App features:*
+## :package: App features
 
-### **Working**
+### Working
 
 - Sorting apps Alphabetically and by Usage.
 - Google feed integration.
@@ -55,7 +62,7 @@ You can join [our Telegram group](https://t.me/neo_launcher) to make suggestions
 - Back up and restore preferences.
 - Vertical Apps Lists.
 
-### **TODOs**
+### :notebook: **TODOs**
 
 - Turn off "auto remove empty screen".
 - Add desktop screen manually.
@@ -66,7 +73,7 @@ You can join [our Telegram group](https://t.me/neo_launcher) to make suggestions
 
 There's also a [devloper's document](DEVDOC.md), where the maintainer and collaborators communicate their TODOs and plans.
 
-## *Screenshots*
+## :framed_picture: Screenshots
 
 <table>
     <tr>
@@ -83,33 +90,33 @@ There's also a [devloper's document](DEVDOC.md), where the maintainer and collab
     </tr>
 </table>
 
-## *Contributions*
+## :raised_hands: Contributions
 
 **If you have knowledge in Java or Kotlin you can work on additional features or bugs, and open pull requests. Make sure the code is formatted before make a pull request.**
 
 **You can also contribute to this project by opening issues for bugs or new features.**
 
-## *Support*
+## :coffee: Support
 
 <a href="https://www.paypal.com/paypalme/omegalauncher"><img src="https://img.shields.io/badge/Paypal-Donate-blue?style=for-the-badge&logo=paypal" alt="Donate via PayPal"/></a>
 <a href="https://www.patreon.com/omegalauncher"><img src="https://img.shields.io/badge/Patreon-Donate-blue?style=for-the-badge&logo=patreon" alt="Donate via Patreon"/></a>
 
-## *FAQ*
+## FAQ
 
-## *Credits*
+## Credits
 
-#### Thanks to The LawnchairLauncher team for the great work on Lawnchair.
+#### Thanks to The LawnchairLauncher team for the great work on [Lawnchair](https://github.com/LawnchairLauncher/lawnchair).
 
-#### Thanks to <a href="https://github.com/machiav3lli">Antonios Hazim</a> for creating the logo and his great contributions in the project.
+#### Thanks to [Antonios Hazim](https://github.com/machiav3lli) for creating the logo and his great contributions in the project.
 
-#### Thanks to <a href="https://github.com/nonaybay">Rafael Venâncio</a> for creating the F-Droid repo.
+#### Thanks to [Rafael Venâncio](https://github.com/nonaybay) for creating the F-Droid repo.
 
 #### Thanks to Helena Zhang and Toby Fried for the great [Phosphor icons](https://phosphoricons.com), which we use since 0.9.0.
 
-## *Translation*
+## :eye_speech_bubble: Translations [<img align="right" src="https://hosted.weblate.org/widgets/omegalauncher/-/287x66-white.png" alt="Translation status" />](https://hosted.weblate.org/engage/omegalauncher/?utm_source=widget)
 
-Translations are handled via Weblate. If want to help, visit <a href="https://hosted.weblate.org/projects/omegalauncher">Hosted Weblate</a>.
+Translations are handled via Weblate. If want to help, visit [Hosted Weblate](https://hosted.weblate.org/projects/omegalauncher).
 
-#### **Translation stats:** [<img align="right" src="https://hosted.weblate.org/widgets/omegalauncher/-/287x66-white.png" alt="Übersetzungsstatus" />](https://hosted.weblate.org/engage/omegalauncher/?utm_source=widget)
+#### **Translation status:**
 
-<img src="https://hosted.weblate.org/widgets/omegalauncher/-/multi-red.svg" />
+<img src="https://hosted.weblate.org/widgets/omegalauncher/-/multi-auto.svg" />
