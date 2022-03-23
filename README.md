@@ -2,9 +2,10 @@
 
 ### Free and Open Source Launcher
 
-[![Github repo stars](https://img.shields.io/github/stars/otakuhqz/Omega?style=flat)](https://github.com/otakuhqz/Omega/stargazers)
-[![Github All Releases](https://img.shields.io/github/downloads/otakuhqz/Omega/total.svg)](https://github.com/otakuhqz/Omega/releases/)
-[![Github release](https://img.shields.io/github/v/release/otakuhqz/Omega?display_name=tag)](https://github.com/otakuhqz/Omega/releases/latest)
+[![GitHub workflow status](https://github.com/otakuhqz/Omega/actions/workflows/android.yml/badge.svg)]()
+[![GitHub repo stars](https://img.shields.io/github/stars/otakuhqz/Omega?style=flat)](https://github.com/otakuhqz/Omega/stargazers)
+[![GitHub All Releases](https://img.shields.io/github/downloads/otakuhqz/Omega/total.svg)](https://github.com/otakuhqz/Omega/releases/)
+[![GitHub release](https://img.shields.io/github/v/release/otakuhqz/Omega?display_name=tag)](https://github.com/otakuhqz/Omega/releases/latest)
 [![Small translation badge](https://hosted.weblate.org/widgets/omegalauncher/-/svg-badge.svg)](https://hosted.weblate.org/engage/omegalauncher/?utm_source=widget)
 
 ![](neo_banner.png)
