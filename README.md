@@ -2,7 +2,7 @@
 
 ### Free and Open Source Launcher
 
-[![GitHub workflow status](https://github.com/otakuhqz/Omega/actions/workflows/android.yml/badge.svg)](https://github.com/otakuhqz/Omega/actions/workflows/android.yml)
+[![Workflow status](https://github.com/otakuhqz/Omega/actions/workflows/android.yml/badge.svg)](https://github.com/otakuhqz/Omega/actions/workflows/android.yml)
 [![GitHub repo stars](https://img.shields.io/github/stars/otakuhqz/Omega?style=flat)](https://github.com/otakuhqz/Omega/stargazers)
 [![GitHub All Releases](https://img.shields.io/github/downloads/otakuhqz/Omega/total.svg)](https://github.com/otakuhqz/Omega/releases/)
 [![GitHub release](https://img.shields.io/github/v/release/otakuhqz/Omega?display_name=tag)](https://github.com/otakuhqz/Omega/releases/latest)
