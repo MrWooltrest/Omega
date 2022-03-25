@@ -2,10 +2,10 @@
 
 ### Free and Open Source Launcher
 
-[![Workflow status](https://github.com/otakuhqz/Omega/actions/workflows/android.yml/badge.svg)](https://github.com/otakuhqz/Omega/actions/workflows/android.yml)
-[![GitHub repo stars](https://img.shields.io/github/stars/otakuhqz/Omega?style=flat)](https://github.com/otakuhqz/Omega/stargazers)
-[![GitHub All Releases](https://img.shields.io/github/downloads/otakuhqz/Omega/total.svg)](https://github.com/otakuhqz/Omega/releases/)
-[![GitHub release](https://img.shields.io/github/v/release/otakuhqz/Omega?display_name=tag)](https://github.com/otakuhqz/Omega/releases/latest)
+[![Workflow status](https://github.com/NeoApplications/Neo-Launcher/actions/workflows/android.yml/badge.svg)](https://github.com/otakuhqz/Omega/actions/workflows/android.yml)
+[![GitHub repo stars](https://img.shields.io/github/stars/NeoApplications/Neo-Launcher?style=flat)](https://github.com/NeoApplications/Neo-Launcher/stargazers)
+[![GitHub All Releases](https://img.shields.io/github/downloads/NeoApplications/Neo-Launcher/total.svg)](https://github.com/NeoApplications/Neo-Launcher/releases/)
+[![GitHub release](https://img.shields.io/github/v/release/NeoApplications/Neo-Launcher?display_name=tag)](https://github.com/NeoApplications/Neo-Launcher/releases/latest)
 [![Small translation badge](https://hosted.weblate.org/widgets/omegalauncher/-/svg-badge.svg)](https://hosted.weblate.org/engage/omegalauncher/?utm_source=widget)
 
 ![](neo_banner.png)
