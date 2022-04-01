@@ -2,7 +2,7 @@
 
 ### Free and Open Source Launcher
 
-[![Workflow status](https://github.com/NeoApplications/Neo-Launcher/actions/workflows/android.yml/badge.svg)](https://github.com/otakuhqz/Omega/actions/workflows/android.yml)
+[![Workflow status](https://github.com/NeoApplications/Neo-Launcher/actions/workflows/android.yml/badge.svg)](https://github.com/NeoApplications/Neo-Launcher/actions/workflows/android.yml)
 [![GitHub repo stars](https://img.shields.io/github/stars/NeoApplications/Neo-Launcher?style=flat)](https://github.com/NeoApplications/Neo-Launcher/stargazers)
 [![GitHub All Releases](https://img.shields.io/github/downloads/NeoApplications/Neo-Launcher/total.svg)](https://github.com/NeoApplications/Neo-Launcher/releases/)
 [![GitHub release](https://img.shields.io/github/v/release/NeoApplications/Neo-Launcher?display_name=tag)](https://github.com/NeoApplications/Neo-Launcher/releases/latest)
