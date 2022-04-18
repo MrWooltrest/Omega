@@ -38,7 +38,7 @@ You can join [our Telegram group](https://t.me/neo_launcher) to make suggestions
 
 ## :package: App features
 
-### Working
+### :white_check_mark: Working
 
 - Sorting apps Alphabetically and by Usage.
 - Google feed integration.
