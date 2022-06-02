@@ -118,6 +118,4 @@ There's also a [developer's document](DEVDOC.md), where the maintainer and colla
 
 Translations are handled via Weblate. If want to help, visit [Hosted Weblate](https://hosted.weblate.org/projects/omegalauncher).
 
-#### **Translation status:**
-
 <img src="https://hosted.weblate.org/widgets/omegalauncher/-/multi-auto.svg" />
